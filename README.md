@@ -2,7 +2,7 @@
 
 This library includes all necessary methods that allows you to use a very lightweight backpropagation neural network
 
-## Our Youtube Channel
+## YouTube Channel
 
  [[Backpropagation with C++]](https://www.youtube.com/watch?v=TW2ks8Dx1mg&index=2&t=0s&list=PL3MCKCM5GS4Ua_SXZg_7b9iM6pBs5XTvO) - *Implementation and Results*
 
